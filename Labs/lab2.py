@@ -18,7 +18,7 @@ class Types_and_Strings:
         #
 
         # print only first and last of the sentence:
-
+        print(message[0])
 
         # use slice notation:
 
@@ -65,4 +65,4 @@ class Types_and_Strings:
 
 tas = Types_and_Strings()
 tas.play_with_strings()
-#tas.play_with_lists()
+# tas.play_with_lists()

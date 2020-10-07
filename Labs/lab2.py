@@ -18,7 +18,7 @@ class Types_and_Strings:
         #
 
         # print only first and last of the sentence:
-        print(message[0])
+        # print(message[0])
 
         # use slice notation:
 

@@ -9,6 +9,8 @@ import string
 class WordScramble:
     def __init__(self):
         self.user_input = input("Please give me a sentence: ")
+	# making a change
+	print("hi")
 
     def scramble(self):
         # print what was input

@@ -13,6 +13,8 @@ class WordCloud:
         # you might like to run the following line only
         # if there wasn't a problem creating the dictionary
         self.create_html(self.my_dict)
+	# making a change here
+	print("edited for change")
 
     # this function creates the actual html file
     # takes a dictionary as an argument
